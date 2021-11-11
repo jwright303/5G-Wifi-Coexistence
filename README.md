@@ -9,7 +9,9 @@ In this, the number of Ues/Stas, Gnbs/Aps can be configured this way, as well as
 
 <img width="394" alt="Screen Shot 2021-11-10 at 5 16 18 PM" src="https://user-images.githubusercontent.com/41707123/141219468-3bd615dc-2d68-4af2-97c0-54109afa7ad0.png">
 
-Similarly, programs were also written to parse the output of the execution and print out the location of each of the devices
+Similarly, programs were also written to parse the output of the execution and print out the location of each of the devices which is also show below
+
+<img width="1161" alt="Screen Shot 2021-11-10 at 5 17 40 PM" src="https://user-images.githubusercontent.com/41707123/141219615-b6188246-1197-4495-b344-fad49e740e3d.png">
 
 Note:
 In order to run this program a working copy of the Ns3 reposotory is needed as well as a copy of 5G repo. Links are provided below
